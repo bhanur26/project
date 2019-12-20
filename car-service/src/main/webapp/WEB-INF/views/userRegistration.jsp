@@ -66,7 +66,7 @@ body{
                  <form:form class="b1  p-3 mb-2 bg-white rounded " commandName="user" action="${action}" method="post">
                     <div class="container p-3 cusgrid">
                           <div class="form-group">
-                                        <form:label path="fname">Firstname</form:label>
+                                        <form:label path="fname"FIRSTNAME</form:label>
                                         <form:input path="fname" cssClass="form-control"/>
                                         <form:errors path="fname" cssClass="error">
                                         </form:errors>
